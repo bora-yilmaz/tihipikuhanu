@@ -14,7 +14,7 @@ a{
 	font-family: Courier;
 }
 @font-face{
-	src: url('../tihipikuhanu/Vl.ttf');
+	src: url('../../tihipikuhanu/Vl.ttf');
 	font-family: 'Vl';
 }
 *{
