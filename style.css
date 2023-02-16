@@ -1,0 +1,48 @@
+header{
+	background-image: linear-gradient(0,transparent, cyan, cyan);
+	height: 50px;
+	font-size: 1.5rem;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+a{
+	font-size: 1rem;
+}
+#tr{
+	font-family: Courier;
+}
+@font-face{
+	src: url('Vl.ttf');
+	font-family: 'Vl';
+}
+*{
+	font-family: Vl;
+}
+#pinu{
+	text-align: center;
+	border-bottom:thick solid  #111;
+	background-image: url(flag.png);
+	width: 100%;
+	aspect-ratio: calc(4/3);
+	background-size:100%;
+	vertical-align: center;
+}
+body{
+	background: #ffeeaa
+}
+span{
+	font-family: monospace;
+}
+footer{
+	background: #333;
+	padding: 20px;
+	position: relative;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+img{
+	width: 30px;
+}
